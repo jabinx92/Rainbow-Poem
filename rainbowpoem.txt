@@ -1,0 +1,11 @@
+This is a rainbow poem.
+
+A rainbow contains the colors
+
+Red
+Orange
+Blue
+White
+Green
+
+The end.

@@ -3,6 +3,7 @@ This is a rainbow poem.
 A rainbow contains the colors
 
 Ruby Red
+Grey
 Red
 Orange
 Blue

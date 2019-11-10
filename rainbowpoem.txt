@@ -14,8 +14,10 @@ NEON
 unicorns
 ponies
 fairies
+Pot of gold. With proper grammar and punctuation.
 
 The end.
-This poem also has unicorns
-This poem also has ponies
-This poem also has fairies
+This poem also has unicorns.
+This poem also has ponies.
+This poem also has fairies.
+This poem also has pot of gold.
